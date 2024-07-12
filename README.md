@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nahyaanp
 - 👀 I’m interested in lots of things😂 
 - 🌱 I’m currently learning ui designs
-- 📫 How to reach me :Nahyaan80@gmail.com
+- 📫 How to reach me :Nahyaanp@gmail.com
