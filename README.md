@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Nahyaanp
-- 👀 I’m interested in lots of things😂 
-- 🌱 I’m currently learning ui designs
-- 📫 How to reach me :Nahyaanp@gmail.com
+Hey everyone, I'm Nahyaan Poonawala, a 16-year-old who's super passionate about coding! I've been messing around with code for a bit now, and I'm totally hooked. Right now, I'm really into JavaScript, HTML/CSS, and React - there's something about bringing an idea to life with code that just clicks with me. I'm also starting to dive into databases, which is pretty cool.
+
+I'm always down to collaborate or chat about code, so feel free to reach out! Let's build something awesome together. Follow me for updates on my coding journey, and let's make the web a more amazing place, one line of code at a time!
